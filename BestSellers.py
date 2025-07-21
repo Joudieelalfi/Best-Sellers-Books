@@ -1,7 +1,4 @@
 
-# Bestsellers 📚
-# Codédex
-
 import csv
 
 # Open the magical booklist (CSV file)
